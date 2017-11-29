@@ -1,0 +1,116 @@
+.jumbotron {
+	background-color: #6DBCDB;
+	text-align: center;
+	color: #FC4349;
+	width: 600px;
+	font-family: 'Bungee Inline', cursive;
+}
+
+body {
+	background-color: #FC4349
+
+}
+
+#paragraph {
+	background-color: white;
+	font-size: 24px;
+	width: 600px;
+	background-color: #F5F5DC;
+	padding: 5px;
+}
+
+#computerScore {
+	background-color: #00cc66;
+	width: 200px;
+	height: 100px;
+	margin-top: 18px;
+	float: left;
+	padding-left: 40px;
+	padding-top: 15px;
+}
+
+#compNum {
+	font-size: 72px;
+	padding-left: 5px;
+}
+
+#gameCounter {
+	background-color: #00FFFF;
+	width: 100px;
+	height: 100px;
+	margin-left: 250px;
+	margin-top: 18px;
+	position: relative;
+}
+
+#win {
+	position: absolute;
+	top: 5px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+
+#loss {
+	position: absolute;
+	top: 40px;
+	font-weight: bold;
+	padding-left: 5px;
+}
+
+#message {
+	position: absolute;
+	bottom: 5px;
+	font-weight: bold;
+	font-size: 18px;
+	padding-left: 5px;
+}
+
+#crystals {
+	clear: left;
+	position: relative;
+	margin-top: 20px;
+	height: 150px;
+}
+
+#buttonRed {
+	position: absolute;
+	top: 20px;
+	left: 0px;
+}
+
+#buttonBlue {
+	position: absolute;
+	top: 20px;
+	left: 90px;
+}
+
+#buttonYellow {
+	position: absolute;
+	top: 20px;
+	left: 180px;
+}
+
+#buttonGreen {
+	position: absolute;
+	top: 20px;
+	left: 265px;
+}
+
+#scoreCount {
+	position: relative;
+	background-color: #008080;
+	color: white;
+	width: 250px;
+	height: 100px;
+	padding: 5px;
+	font-size: 24px;
+	margin-bottom: 20px;
+}
+
+#scoreNum {
+	position: absolute;
+	top: 40px;
+	left: 25px;
+	font-size: 56px;
+}	
