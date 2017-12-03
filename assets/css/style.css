@@ -7,20 +7,22 @@
 }
 
 body {
-	background-color: #FC4349
+	background-image:  url("../images/gems.jpg");
 
 }
 
 #paragraph {
-	background-color: white;
+	background-color: #6DBCDB;
 	font-size: 24px;
 	width: 600px;
-	background-color: #F5F5DC;
+	background-color: #6DBCDB;
 	padding: 5px;
+	color: #FC4349;
+	font-family: 'Baloo Paaji', cursive;
 }
 
 #computerScore {
-	background-color: #00cc66;
+	background-color: #6DBCDB;
 	width: 200px;
 	height: 100px;
 	margin-top: 18px;
